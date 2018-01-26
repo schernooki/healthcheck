@@ -1,7 +1,7 @@
 # healthcheck
 Bash script 
 
-usage: ./png.sh <IP or domain name> 
+usage: ./png.sh (IP or domain name) 
 
 Responses: ! - ping time < 100 ms 
 
