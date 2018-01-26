@@ -1,7 +1,11 @@
 # healthcheck
-Bash script /n
-usage: ./png.sh <IP or domain name> /n
-Responses: ! - ping time < 100 ms /n
-Attn - ping time > 100 ms /n
-Warning - ping loss. /n
+Bash script 
+
+usage: ./png.sh <IP or domain name> 
+
+Responses: ! - ping time < 100 ms 
+
+Attn - ping time > 100 ms 
+
+Warning - ping loss. 
   
