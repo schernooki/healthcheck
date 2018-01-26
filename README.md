@@ -7,5 +7,7 @@ Responses: ! - ping time < 100 ms
 
 Attn - ping time > 100 ms 
 
-Warning - ping loss. 
-  
+Warning - ping loss.
+
+Ctrl-c to stop.
+
